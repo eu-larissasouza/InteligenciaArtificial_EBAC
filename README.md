@@ -25,6 +25,4 @@ Sempre pensei em estudar sobre a área de dados, mas faltava a atitude para estu
 </p> 
    
 ### Escopo
-<p align="justify"> Desenvolver uma analise de dados de uma Startup de Vendas, com base em um conjunto de dados presente no Kaggle. 
-
-Além disso, o projeto compreende desde a construção de um algoritmo em Phyton, até a coleta, manipulação e visualização dos resultados na tela, para tanto, utilizamos o Google Colab para desenvolver o projeto.
+<p align="justify"> Desenvolver uma analise de dados de uma Startup de Vendas, com base em um conjunto de dados presente no Kaggle. Além disso, o projeto compreende desde a construção de um algoritmo em Phyton, até a coleta, manipulação e visualização dos resultados na tela, para tanto, utilizamos o Google Colab para desenvolver o projeto.</p> 
