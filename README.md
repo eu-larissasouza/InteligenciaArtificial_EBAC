@@ -11,7 +11,7 @@ Sempre pensei em estudar sobre a área de dados, mas faltava a atitude para estu
 
 ## Projeto: Otimização de conversão de vendas
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hfntLOnvNFYTX6xN42ofssMrOzPD57ZN)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eu-larissasouza/InteligenciaArtificial_EBAC/blob/main/LICENSE)
 
 ### Entendendo o Problema:
