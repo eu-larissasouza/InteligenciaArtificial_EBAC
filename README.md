@@ -10,9 +10,9 @@ Sempre pensei em estudar sobre a área de dados, mas faltava a atitude para estu
 </p>
 
 ## Projeto: Otimização de conversão de vendas
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hfntLOnvNFYTX6xN42ofssMrOzPD57ZN?usp=sharing)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eu-larissasouza/InteligenciaArtificial_EBAC/blob/main/LICENSE)
+![Python](https://img.shields.io/badge/Python%20V3.6+%20-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1hfntLOnvNFYTX6xN42ofssMrOzPD57ZN?usp=sharing)
+[![License](https://img.shields.io/badge/LICENSE%20MIT%20-4A154B?style=for-the-badge&logoColor=white)](https://github.com/eu-larissasouza/InteligenciaArtificial_EBAC/blob/main/LICENSE)
 
 ### Entendendo o Problema:
 
